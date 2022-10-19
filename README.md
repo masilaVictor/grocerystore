@@ -1,15 +1,3 @@
-# GroceryStore-ReactNative
-<a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
-
-* [GroceryStore](https://megagrocerystore.000webhostapp.com/) - Grocery Store Website (Demo)
-
-* [GroceryStoreAdmin](https://megagrocerystore.000webhostapp.com/admin/) - Grocery Store Admin (Demo)
-
-- username/password for Admin Demo :- admin/Admin@2020
-- For Backend API & Admin pane source code send email to contact[at]quintuslabs.com
-
-
-
 
 # GroceryStore
 Grocery App, is online shopping cart, geniune mobile application to which you can rely on. It guides you to formulate incredible mobile application. It comprise of 10+ screens with different features to navigate screens easily.
