@@ -39,7 +39,7 @@ The screen contains more than 60 icons and most of all required elements require
 -View Orders (Confirmed, Preparing, On Way, Dilivered)
 -Manage Customers
 -App Token Authentication
--For Api integration Please Contact us:- contact@quintuslabs.com
+-For Api integration Please Contact us:- masila.victor43@gmail.com
 
 
 ## Screen 
